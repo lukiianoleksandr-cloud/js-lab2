@@ -1,4 +1,0 @@
-html { font-size: 10px; }
-body { width: 600px; margin: 0 auto; background-color: #FFFFFF; padding: 0 20px 20px 20px; border: 2px solid #333; font-family: sans-serif; line-height: 1.5; }
-h1.myclass { margin: 0; padding: 20px 0; color: #CC0000; text-shadow: 2px 2px 1px black; }
-p, li, div { font-size: 16px; line-height: 2; letter-spacing: 1px; }
